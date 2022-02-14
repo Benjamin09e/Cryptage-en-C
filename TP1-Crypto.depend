@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1582710924 source:c:\langage c\tp1-crypto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1582712290 source:c:\users\titifriti\documents\3il\langage c\develop\tps\tp1-crypto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
